@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ultermazo.github.io/sitemap.html.gz
+Sitemap: https://ultermazo.github.io/app/sitemap.html.gz
+Sitemap: https://ultermazo.github.io/assets/sitemap.html.gz
+Sitemap: https://ultermazo.github.io/css/sitemap.html.gz
+Sitemap: https://ultermazo.github.io/includes/sitemap.html.gz
+Sitemap: https://ultermazo.github.io/item/sitemap.html.gz
+Sitemap: https://ultermazo.github.io/src/sitemap.html.gz
